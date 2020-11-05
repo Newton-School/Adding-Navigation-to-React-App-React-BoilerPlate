@@ -3,7 +3,7 @@ We all know we need to nevigate on different web pages to get different informat
 But sometimes this can be tedious because it may require refresing page which may involves loading new as well as old contents. <br>
 React Router is an API for React Applications allows us to build a single-page web application with navigation without the page refreshing as the user navigates. <br>
 
-##Acceptance Criteria:
+## Acceptance Criteria:
 - [ ] Create React Application and add Navigation feature to it.
 - [ ] There will be two components 'App' and 'LocationDisplay'. Put all your components in App.js and export them. Make 'App' as default export.
 - [ ] 'App' is your compelete Application.

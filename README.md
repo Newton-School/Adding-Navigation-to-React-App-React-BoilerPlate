@@ -7,7 +7,7 @@ React Router is an API for React Applications that allows us to build a single-p
 - [ ] Create React Application and add Navigation feature to it.
 - [ ] Put all your components in App.js and export them. Make **App** as default export.
 - [ ] Component **App** is your compelete Application.
-- [ ] Component **LocationDisplay** should display your current location pathname in DOM. Like if user on route '/' should be see **"/" (without quotes)** on screen or Like any route '/any-route' should see able to **"/any-route" (without quotes)**. *Hint:* useLocation ()
+- [ ] Component **LocationDisplay** should display your current location pathname in DOM. Like if user on route '/' LocationDisplay should render **"/" (without quotes)** on screen or Like any route '/any-route' LocationDisplay should render **"/any-route" (without quotes)**. *Hint:* useLocation ()
 - [ ] there will be two routes '/' and '/about'
 - [ ] default route will be '/' (home page)
 - [ ] on '/' should be able to see **You are home**. Note: other contents can be there but this must.
